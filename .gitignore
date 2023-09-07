@@ -1,3 +1,10 @@
 
-#venv
+# venv
 sb_venv/
+
+# ServiceNow SN utils dev work ignore
+dev157869/
+autocomplete/
+jsconfig.json 
+
+
